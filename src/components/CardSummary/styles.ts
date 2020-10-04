@@ -91,6 +91,7 @@ export const CardFooter = styled.div `
     border-radius: 25px;
     border: 1px solid var(--color-primary);
     padding: 6px 13px;
+    outline: none;
 
     color: var(--color-primary);
     font-size: 16px;
